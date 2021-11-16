@@ -1,6 +1,0 @@
-ON BROWSER WHEN YOUR WANT TO KNOW THE PERFORMANCE OF CODE
-start = performance.now();
-Your function
-end = performance.now();
-end - start;
-your time to execute the code
