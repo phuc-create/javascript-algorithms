@@ -3,7 +3,7 @@
 # Big O notation
 | Notation | Name | Example |
 | --- | --- | --- |
-| O(1) | List all new or modified files |
+| O(1) | somthing |abc | 
 | O(\log \log n)|  | |
 | O(\log n)|  | |
 | {\displaystyle O((\log n)^{c})}
@@ -11,4 +11,4 @@
 | O(n^{c})
 {\textstyle 0<c<1}{\textstyle 0<c<1}|  | |
 # Data Structures
-# 
+
