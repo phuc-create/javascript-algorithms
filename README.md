@@ -2,7 +2,7 @@
 # Algorithms
 # Big O notation
 | Notation | Name | Example |
-| --- | --- |
+| --- | --- | --- |
 | O(1) | List all new or modified files |
 | O(\log \log n)|  | |
 | O(\log n)|  | |
