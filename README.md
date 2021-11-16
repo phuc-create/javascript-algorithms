@@ -12,6 +12,7 @@
 | O(n!)| Factorial | Solving the travelling salesman problem via brute-force search; generating all unrestricted permutations of a poset; finding the determinant with Laplace expansion; enumerating all partitions of a set |
 # Data Structures
 # changes somthing and merge
+# command --amend done?
 
 
 
